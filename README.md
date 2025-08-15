@@ -1,1 +1,1 @@
-Hospital booking application for easy booking
+Job seeking website
