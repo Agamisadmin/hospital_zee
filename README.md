@@ -1,1 +1,1 @@
-# hospital_zee
+Hospital booking application for easy booking
